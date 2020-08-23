@@ -1,2 +1,0 @@
-api_key = "a37b311bdd4a2c129e19cef8cea1a77f"
-gkey="AIzaSyB8rwY68w2LrdHA5kqVazfF_g0BZUlmY5M"
